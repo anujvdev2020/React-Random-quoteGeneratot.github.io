@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  width: 500px;
+  text-align: center;
+  background: white;
+  margin: 10px auto;
+  padding: 36px;
+  border-radius: 5px;
+}
+.quote-box {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  opacity: 1;
+}
+#btn {
+  display: flex;
+  justify-content: space-around;
+}
+button {
+  margin: 5px;
+}
